@@ -1,6 +1,7 @@
 STEPS TO INSTALL PYTHON AND ANACONDA
 
 https://www.python.org/downloads/
+
 https://www.anaconda.com/products/individual#macos
 
 conda info
