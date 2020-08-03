@@ -6,7 +6,7 @@ https://www.anaconda.com/products/individual#macos
 
 conda info
 
-conda create -n myenv python=3.6
+conda create -n myenv python=3.8
 
 conda activate myenv
 
